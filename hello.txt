@@ -6,3 +6,4 @@ yet another test of git diff.
 today is 14th may and i am learning 
 the awesome git flow from git hub
 docs
+testing more merges and git diff
