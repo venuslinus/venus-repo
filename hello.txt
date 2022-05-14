@@ -3,3 +3,6 @@ happy leaning git
 this is a test text change numbered 1st
 this is to test git diff in action.
 yet another test of git diff.
+today is 14th may and i am learning 
+the awesome git flow from git hub
+docs
